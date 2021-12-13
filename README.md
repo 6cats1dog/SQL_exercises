@@ -10,7 +10,8 @@ through the Flatiron Data Science post-work curriculum.
 Notebooks will be added based on the lessons ans exercises being practiced as I go to the program. The plan is to do the inital
 run through the exercises, then create spinoff exercises to expand on the concepts being practiced.
 
-###Sections
--Intro to SQL: Querying and managing data
--Advanced SQL queries
--Relational Queries in SQL
+### Sections
+
+- Intro to SQL: Querying and managing data
+- Advanced SQL queries
+- Relational Queries in SQL
