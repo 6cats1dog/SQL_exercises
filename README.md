@@ -1,4 +1,4 @@
-# SQL_exercises
+# SQL Exercises
 
 ### Purpose
 
